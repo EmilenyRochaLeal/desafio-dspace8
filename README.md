@@ -1,5 +1,11 @@
 # Desafio: Implementação e Customização do DSpace 8
 
+
+# Links : 
+## Backend: https://github.com/EmilenyRochaLeal/dspace-backend.git
+## Frontend: https://github.com/EmilenyRochaLeal/dspace-frontend.git
+
+
 #### Objetivo
 
 O objetivo deste desafio é avaliar suas habilidades técnicas na instalação, configuração e customização de sistemas de repositórios digitais, utilizando o DSpace 8. Além disso, você deverá demonstrar sua capacidade de comunicação ao apresentar o trabalho realizado, explicando conceitos técnicos de forma clara e acessível.
