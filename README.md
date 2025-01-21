@@ -42,7 +42,7 @@ O objetivo deste desafio é avaliar suas habilidades técnicas na instalação, 
 
 ### Como participar?
 
-* Para participar deste defafio basta fazer um clone deste repositório e alterar este aqui adicionando os links dos repostiórios:
+* Para participar deste defafio basta fazer um fork deste repositório e alterar este aqui adicionando os links dos repostiórios:
   * Frontend: 
   * Backend:
 * E informar seu nome e email neste formulário: [https://forms.gle/8BA9GypvTAZkUkVY7](https://forms.gle/8BA9GypvTAZkUkVY7)
